@@ -1,7 +1,7 @@
 # create web app
 node.js web app template
 
-## feature
+## features
 * Optional service worker
 * Lighthouse perfect SEO
 * Block source code
