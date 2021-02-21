@@ -1,9 +1,7 @@
-# AdCharity Web App
-Create AdCharity Node.js Web Apps Quickly
+# create web app
+node.js web app template
 
-## Features
-* Works out of the box
+## feature
 * Optional service worker
 * Lighthouse perfect SEO
 * Block source code
-* Official AdCharity assets
